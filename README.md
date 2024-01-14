@@ -8,6 +8,6 @@ HW1 noteook is on improving FashionMNIST classifier using neural nets and implem
 
 HW2 notebook is on training Alexnet and finetuning a pretrained Torchvision object detection model to perform object detection.
 
-HW2 notebook is on training GANs on FashionMNIST to generate images. 
+HW3 notebook is on training GANs on FashionMNIST to generate images. 
 
 The final project of the course on detecting barcodes using TinyYolo & Pyzbar is in a separate repository called "Deep-Learning-Barcode". 
