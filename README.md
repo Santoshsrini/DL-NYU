@@ -10,4 +10,4 @@ HW2 notebook is on training Alexnet and finetuning a pretrained Torchvision obje
 
 HW2 notebook is on training GANs on FashionMNIST to generate images. 
 
-The final project on detecting barcodes using TinyYolo & Pyzbar is in a separate repository called "Deep-Learning-Barcode". 
+The final project of the course on detecting barcodes using TinyYolo & Pyzbar is in a separate repository called "Deep-Learning-Barcode". 
